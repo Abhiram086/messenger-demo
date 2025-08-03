@@ -33,9 +33,9 @@ This repository is a **public showcase** with screenshots and APK access, while 
 ---
 
 ## 📦 Download APK
+- You can download and test the latest version of the app here:
 
-- Coming soon!
-
+- [messenger v1.0.0](https://github.com/Abhiram086/messenger-demo/releases/download/v1.0.0/messenger-v1.0.0.apk)
 
 
 ## 🚀 How It Works
