@@ -20,24 +20,6 @@ This repository is a **public showcase** with screenshots and APK access, while 
 
 ## 📸 App Screenshots
 
-<style>
-@media (max-width: 700px) {
-  table img {
-    width: 100% !important;
-  }
-  table tr {
-    display: block;
-    width: 100%;
-  }
-  table td {
-    display: block;
-    text-align: center;
-    width: 100%;
-    box-sizing: border-box;
-  }
-}
-</style>
-
 <table>
   <tr>
     <td><img src="screenshots/register_page.png" width="300"/></td>
@@ -60,8 +42,7 @@ This repository is a **public showcase** with screenshots and APK access, while 
 ---
 
 ## 📦 Download APK
-
-You can download and test the latest version of the app here:
+- You can download and test the latest version of the app here:
 
 - [messenger v1.0.0](https://github.com/Abhiram086/messenger-demo/releases/download/v1.0.0/messenger-v1.0.0.apk)
 
