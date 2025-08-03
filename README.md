@@ -3,7 +3,6 @@
 A sleek and fully functional Flutter-based messaging app integrated with Firebase services.  
 This repository is a **public showcase** with screenshots and APK access, while the complete source code remains private.
 
-
 ## ✨ Features
 
 - 🔐 **User Authentication**
@@ -19,16 +18,26 @@ This repository is a **public showcase** with screenshots and APK access, while 
 - 📲 **APK for Testing**
   - Install and test the app on Android devices
 
-
 ## 📸 App Screenshots
 
-| Register | Login |
-|----------|-------|
-| ![](screenshots/register_page.png) | ![](screenshots/login_page.png) |
-
-| Home Page | Chat Page |
-|-----------|-----------|
-| ![](screenshots/home_page.png) | ![](screenshots/chat_page.png) |
+<table>
+  <tr>
+    <td><img src="screenshots/register_page.png" width="300"/></td>
+    <td><img src="screenshots/login_page.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center">Register</td>
+    <td align="center">Login</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home_page.png" width="300"/></td>
+    <td><img src="screenshots/chat_page.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center">Home Page</td>
+    <td align="center">Chat Page</td>
+  </tr>
+</table>
 
 ---
 
@@ -36,7 +45,6 @@ This repository is a **public showcase** with screenshots and APK access, while 
 - You can download and test the latest version of the app here:
 
 - [messenger v1.0.0](https://github.com/Abhiram086/messenger-demo/releases/download/v1.0.0/messenger-v1.0.0.apk)
-
 
 ## 🚀 How It Works
 
@@ -47,8 +55,6 @@ The app consists of the following core modules:
 - **UI**: Flutter is used for building smooth, reactive UI components with theme support.
 - **State Management**: The app uses `Provider` for managing user and chat state across widgets.
 
-
-
 ## 🛠 Built With
 
 - [Flutter](https://flutter.dev/)
@@ -56,10 +62,7 @@ The app consists of the following core modules:
 - [Firebase Firestore](https://firebase.google.com/products/firestore)
 - [Provider](https://pub.dev/packages/provider) – for app-wide state management
 
-
 ## 👨‍💻 Author
 
 **Abhiram S**  
 Feel free to connect with me on [GitHub](https://github.com/Abhiram086)
-
-
