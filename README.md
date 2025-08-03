@@ -20,24 +20,20 @@ This repository is a **public showcase** with screenshots and APK access, while 
 
 ## 📸 App Screenshots
 
-<table>
-  <tr>
-    <td><img src="screenshots/register_page.png" width="300"/></td>
-    <td><img src="screenshots/login_page.png" width="300"/></td>
-  </tr>
-  <tr>
-    <td align="center">Register</td>
-    <td align="center">Login</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/home_page.png" width="300"/></td>
-    <td><img src="screenshots/chat_page.png" width="300"/></td>
-  </tr>
-  <tr>
-    <td align="center">Home Page</td>
-    <td align="center">Chat Page</td>
-  </tr>
-</table>
+## 📸 App Screenshots
+
+### Register & Login
+<div align="center">
+  <img src="screenshots/register_page.png" width="45%" style="margin: 10px;"/>
+  <img src="screenshots/login_page.png" width="45%" style="margin: 10px;"/>
+</div>
+
+### Home & Chat
+<div align="center">
+  <img src="screenshots/home_page.png" width="45%" style="margin: 10px;"/>
+  <img src="screenshots/chat_page.png" width="45%" style="margin: 10px;"/>
+</div>
+
 
 ---
 
